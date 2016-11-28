@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">תרגיל</string>
+    <string name="button_send">הזמנה</string>
+    <string name="edit_message">כמות כבשים</string>
+    <string name="headline">טופס הזמנת כבשים:</string>
+    <string name="order_message">הכנס כמות כבשים רצויה</string>
+    <string name="select_food">סוג אוכל</string>
+    <string name="with_food">כולל אוכל</string>
+</resources>

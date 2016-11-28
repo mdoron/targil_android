@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sheep form order"
+        android:textSize="24dp"
+        android:padding="2dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:id = "@+id/header"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/header"
+        android:text="Please select number of sheeps"
+        android:id="@+id/label"
+        />
+    <EditText android:id="@+id/sheeps_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:maxLines="1"
+        android:hint=""
+        android:inputType="number"
+        android:digits="1234567890"
+        android:layout_below="@id/label"
+        />
+    <SeekBar android:id="@+id/sheeps_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="100"
+        android:layout_below="@id/sheeps_text"
+        android:layout_alignParentLeft="true"
+        android:layout_toLeftOf="@+id/with_food" />
+        />
+
+    <CheckBox android:id="@+id/with_food"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/sheeps_text"
+        android:text="With food"
+        android:layout_alignParentRight="true"
+        />
+    <Button android:id="@+id/make_order"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button_send"
+        android:layout_below="@id/sheeps_bar"/>
+
+    <!--<Button android:id="@+id/select_food"-->
+        <!--android:visibility="invisible"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_width="match_parent" />-->
+
+</RelativeLayout>

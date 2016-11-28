@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Users\\doron\\AndroidStudioProjects\\frag\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-land-v13\\activity_main.xml",
+        "source": "D:\\Users\\doron\\AndroidStudioProjects\\frag\\app\\src\\main\\res\\layout-sw600dp-land\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Users\\doron\\AndroidStudioProjects\\frag\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-land-v13\\rowlayout.xml",
+        "source": "D:\\Users\\doron\\AndroidStudioProjects\\frag\\app\\src\\main\\res\\layout-sw600dp-land\\rowlayout.xml"
+    },
+    {
+        "merged": "D:\\Users\\doron\\AndroidStudioProjects\\frag\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-land-v13\\fragment_select.xml",
+        "source": "D:\\Users\\doron\\AndroidStudioProjects\\frag\\app\\src\\main\\res\\layout-sw600dp-land\\fragment_select.xml"
+    },
+    {
+        "merged": "D:\\Users\\doron\\AndroidStudioProjects\\frag\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-land-v13\\fragment_form.xml",
+        "source": "D:\\Users\\doron\\AndroidStudioProjects\\frag\\app\\src\\main\\res\\layout-sw600dp-land\\fragment_form.xml"
+    },
+    {
+        "merged": "D:\\Users\\doron\\AndroidStudioProjects\\frag\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-land-v13\\activity_display_message.xml",
+        "source": "D:\\Users\\doron\\AndroidStudioProjects\\frag\\app\\src\\main\\res\\layout-sw600dp-land\\activity_display_message.xml"
+    }
+]
